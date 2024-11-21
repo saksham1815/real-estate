@@ -1,4 +1,4 @@
-**Bengaluru House Price Prediction App 🏡**
+****Bengaluru House Price Prediction App 🏡****
 This repository contains a Streamlit-based web application that predicts house prices in Bengaluru using a machine learning model trained on real estate data.
 
 **Features**
