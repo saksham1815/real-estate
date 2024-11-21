@@ -71,6 +71,3 @@ bengaluru-house-price-prediction/
 - Incorporate additional features like amenities and distance to major landmarks.  
 - Expand dataset to include other cities for multi-city predictions.  
 
----
-
-Would you like help with deployment, enhancing features, or preparing a demo video? 😊
